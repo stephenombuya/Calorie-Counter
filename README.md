@@ -70,5 +70,5 @@ open index.html
 Contributions are welcome! If you would like to contribute or suggest features, please fork the repository and submit a pull request.
 
 ## **License**
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/stephenombuya/Calorie-Counter/blob/main/LICENSE) file for details.
 
